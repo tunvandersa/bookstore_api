@@ -1,0 +1,14 @@
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\book_store\BussinesObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\LAPTRINH\book_store\BussinesObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\LAPTRINH\book_store\BussinesObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\LAPTRINH\book_store\BussinesObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\LAPTRINH\book_store\BussinesObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

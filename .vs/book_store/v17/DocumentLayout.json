@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAPTRINH\\book_store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|d:\\laptrinh\\book_store\\book_store_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|solutionrelative:book_store_api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|d:\\laptrinh\\book_store\\repositories\\business\\cartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|solutionrelative:repositories\\business\\cartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\sach\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|d:\\laptrinh\\book_store\\book_store_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|solutionrelative:book_store_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\interface\\icartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\icartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|d:\\laptrinh\\book_store\\repositories\\interface\\icartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\daos\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\sachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\interface\\isachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\isachdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\dto\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\dto\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|d:\\laptrinh\\book_store\\repositories\\business\\sachbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|solutionrelative:repositories\\business\\sachbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|d:\\laptrinh\\book_store\\book_store_api\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|solutionrelative:book_store_api\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|d:\\laptrinh\\book_store\\repositories\\interface\\isachbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\isachbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\interface\\itaikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interface\\itaikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\models\\qlbsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\models\\qlbsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\dto\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\dto\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|d:\\laptrinh\\book_store\\repositories\\business\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583062AE-6A6F-49C3-B7AA-3432D812E000}|Repositories\\Repositories.csproj|solutionrelative:repositories\\business\\taikhoanbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\book_store\\dataaccess\\daos\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB9580B-0682-4346-85AF-DB89494A0144}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\taikhoandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|d:\\laptrinh\\book_store\\book_store_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED885FDC-3F52-4B52-ADE9-E2C4D6230B20}|book_store_api\\book_store_api.csproj|solutionrelative:book_store_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\dto\\sachdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|d:\\laptrinh\\book_store\\bussinesobjects\\dto\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D89F429-DB37-4D16-959D-EED338F7FE71}|BussinesObjects\\BusinessObjects.csproj|solutionrelative:bussinesobjects\\dto\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|d:\\laptrinh\\book_store\\book_store_client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E92E3281-363A-476C-AFF1-1005D14608D5}|book_store_client\\book_store_client.csproj|solutionrelative:book_store_client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 745,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "book_store_client\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\CartController.cs",
+              "RelativeToolTip": "book_store_client\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:24:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\CartDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\CartDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\CartDao.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\CartDao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:54:40.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "book_store_api\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\CartController.cs",
+              "RelativeToolTip": "book_store_api\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAlwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:41:06.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Sach\\Create.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Sach\\Create.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Sach\\Create.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Sach\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:16:09.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Sach\\Index.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Sach\\Index.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Sach\\Index.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Sach\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:39:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:49:31.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\CartBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Business\\CartBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\CartBusiness.cs",
+              "RelativeToolTip": "Repositories\\Business\\CartBusiness.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAlwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:44:31.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICartDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ICartDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\ICartDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ICartDao.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\ICartDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:43:14.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICartBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\Repositories\\Interface\\ICartBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ICartBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\Repositories\\Interface\\ICartBusiness.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ICartBusiness.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:31:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_api\\Program.cs",
+              "RelativeDocumentMoniker": "book_store_api\\Program.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_api\\Program.cs",
+              "RelativeToolTip": "book_store_api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:55:39.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISachDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ISachDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\ISachDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ISachDao.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\ISachDao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:45:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SachDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\SachDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\SachDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\SachDao.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\SachDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:17:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\Address.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\DTO\\Address.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\Address.cs",
+              "RelativeToolTip": "BussinesObjects\\DTO\\Address.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:17:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "book_store_api\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\SachController.cs",
+              "RelativeToolTip": "book_store_api\\Controllers\\SachController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:42:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "book_store_client\\Controllers\\SachController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\SachController.cs",
+              "RelativeToolTip": "book_store_client\\Controllers\\SachController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:11:27.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SachBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\SachBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Business\\SachBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\SachBusiness.cs",
+              "RelativeToolTip": "Repositories\\Business\\SachBusiness.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:26:08.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:29:10.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "book_store_client\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "book_store_client\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:58:39.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISachBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\Repositories\\Interface\\ISachBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ISachBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\Repositories\\Interface\\ISachBusiness.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ISachBusiness.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:43:28.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaiKhoanDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ITaiKhoanDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interface\\ITaiKhoanDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\Interface\\ITaiKhoanDao.cs",
+              "RelativeToolTip": "DataAccess\\Interface\\ITaiKhoanDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:37:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "qlbsDbContext.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\qlbsDbContext.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\Models\\qlbsDbContext.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\qlbsDbContext.cs",
+              "RelativeToolTip": "BussinesObjects\\Models\\qlbsDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwDoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:55:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\KhachHang.cs",
+              "RelativeToolTip": "BussinesObjects\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:43:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\Models\\Sach.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\Sach.cs",
+              "RelativeToolTip": "BussinesObjects\\Models\\Sach.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:47:42.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\CartItem.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\DTO\\CartItem.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\CartItem.cs",
+              "RelativeToolTip": "BussinesObjects\\DTO\\CartItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:38:17.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaikhoanBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\TaikhoanBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Business\\TaikhoanBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\Repositories\\Business\\TaikhoanBusiness.cs",
+              "RelativeToolTip": "Repositories\\Business\\TaikhoanBusiness.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:07:26.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "book_store_client\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "book_store_client\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:11:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaiKhoanDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\TaiKhoanDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOs\\TaiKhoanDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\DataAccess\\DAOs\\TaiKhoanDao.cs",
+              "RelativeToolTip": "DataAccess\\DAOs\\TaiKhoanDao.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:47:55.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T10:03:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Auth\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Auth\\LogIn.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Auth\\LogIn.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Auth\\LogIn.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:45:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\Models\\Taikhoan.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\Models\\Taikhoan.cs",
+              "RelativeToolTip": "BussinesObjects\\Models\\Taikhoan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:25:06.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BussinesObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BussinesObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:08:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAIBJwP0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:07:54.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Program.cs",
+              "RelativeDocumentMoniker": "book_store_client\\Program.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Program.cs",
+              "RelativeToolTip": "book_store_client\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:14:43.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "book_store_api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "book_store_api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:42:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SachDto.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\SachDto.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\DTO\\SachDto.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\SachDto.cs",
+              "RelativeToolTip": "BussinesObjects\\DTO\\SachDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:25:14.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:40:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:40:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "loginData.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\loginData.cs",
+              "RelativeDocumentMoniker": "BussinesObjects\\DTO\\loginData.cs",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\BussinesObjects\\DTO\\loginData.cs",
+              "RelativeToolTip": "BussinesObjects\\DTO\\loginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:38:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "book_store_client\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\book_store\\book_store_client\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "book_store_client\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T06:40:06.602Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

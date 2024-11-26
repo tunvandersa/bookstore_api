@@ -1,0 +1,17 @@
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\LAPTRINH\book_store\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\LAPTRINH\book_store\Repositories\obj\Debug\net8.0\ref\Repositories.dll
